@@ -10,3 +10,6 @@
 
 1. [get](https://github.com/Moons99/30s-code/blob/main/Js/Object/get.md) 从对象中检索由给定选择器指示的一组属性。
 
+## Browser
+
+1. [getURLParameters](https://github.com/Moons99/30s-code/blob/main/Js/Browser/getURLParameters.md) 创建一个包含当前 URL 参数的对象。
