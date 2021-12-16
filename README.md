@@ -5,6 +5,7 @@
 ## Array
 
 1. [unzipWith](https://github.com/Moons99/30s-code/blob/main/Js/Array/unzipWith.md) 创建一个元素数组，将zip生成的数组中的元素解组并应用提供的函数。 
+2. [unzip](https://github.com/Moons99/30s-code/blob/main/Js/Array/unzip.md) 创建数组的数组，将zip生成的数组中的元素取消分组。
 
 ## Object 
 
