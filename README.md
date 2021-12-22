@@ -11,6 +11,7 @@
 5. [groupBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/groupBy.md) 根据给定的函数对数组的元素进行分组。
 5. [indexBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/indexBy.md) 从数组创建一个对象，使用函数将每个值映射到一个键。
 6. [reduceFilter](https://github.com/Moons99/30s-code/blob/main/Js/Array/reduceFilter.md) 根据条件过滤对象数组，同时过滤未指定的键。
+6. [mapObject](https://github.com/Moons99/30s-code/blob/main/Js/Array/mapObject.md) 使用函数将数组的值映射到对象。
    
 
 ## Object 
