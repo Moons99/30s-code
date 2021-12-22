@@ -14,6 +14,7 @@
 ## Object 
 
 1. [get](https://github.com/Moons99/30s-code/blob/main/Js/Object/get.md) 从对象中检索由给定选择器指示的一组属性。
+2. [compactObject](https://github.com/Moons99/30s-code/blob/main/Js/Object/compactObject.md) 从对象或数组中移除所有错误值。
 
 ## Browser
 
