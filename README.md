@@ -9,9 +9,10 @@
 3. [JSONtoCSV](https://github.com/Moons99/30s-code/blob/main/Js/Array/JSONtoCSV.md) 将对象数组转换为仅包含columns指定对象的逗号分隔值 (CSV) 字符串。
 4. [countBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/countBy.md) 根据给定的函数对数组的元素进行分组，并返回每个组中元素的计数。
 5. [groupBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/groupBy.md) 根据给定的函数对数组的元素进行分组。
-5. [indexBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/indexBy.md) 从数组创建一个对象，使用函数将每个值映射到一个键。
-6. [reduceFilter](https://github.com/Moons99/30s-code/blob/main/Js/Array/reduceFilter.md) 根据条件过滤对象数组，同时过滤未指定的键。
-6. [mapObject](https://github.com/Moons99/30s-code/blob/main/Js/Array/mapObject.md) 使用函数将数组的值映射到对象。
+6. [indexBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/indexBy.md) 从数组创建一个对象，使用函数将每个值映射到一个键。
+7. [reduceFilter](https://github.com/Moons99/30s-code/blob/main/Js/Array/reduceFilter.md) 根据条件过滤对象数组，同时过滤未指定的键。
+8. [mapObject](https://github.com/Moons99/30s-code/blob/main/Js/Array/mapObject.md) 使用函数将数组的值映射到对象。
+9. [bifurcateBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/bifurcateBy.md) 根据给定过滤函数的结果将值分成两组。
    
 
 ## Object 
