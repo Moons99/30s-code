@@ -13,6 +13,7 @@
 7. [reduceFilter](https://github.com/Moons99/30s-code/blob/main/Js/Array/reduceFilter.md) 根据条件过滤对象数组，同时过滤未指定的键。
 8. [mapObject](https://github.com/Moons99/30s-code/blob/main/Js/Array/mapObject.md) 使用函数将数组的值映射到对象。
 9. [bifurcateBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/bifurcateBy.md) 根据给定过滤函数的结果将值分成两组。
+10. [mostFrequent](https://github.com/Moons99/30s-code/blob/main/Js/Array/mostFrequent.md) 返回数组中出现频率最高的元素。
    
 
 ## Object 
