@@ -15,7 +15,8 @@
 9. [bifurcateBy](https://github.com/Moons99/30s-code/blob/main/Js/Array/bifurcateBy.md) 根据给定过滤函数的结果将值分成两组。
 10. [mostFrequent](https://github.com/Moons99/30s-code/blob/main/Js/Array/mostFrequent.md) 返回数组中出现频率最高的元素。
 11. [indexOn](https://github.com/Moons99/30s-code/blob/main/Js/Array/indexOn.md) 从数组创建一个对象，使用指定的键并将其从每个值中排除。
-11. [partition](https://github.com/Moons99/30s-code/blob/main/Js/Array/partition.md) 根据所提供的函数对每个元素的真实性，将元素分组为两个数组。
+12. [partition](https://github.com/Moons99/30s-code/blob/main/Js/Array/partition.md) 根据所提供的函数对每个元素的真实性，将元素分组为两个数组。
+13. [findLastIndex](https://github.com/Moons99/30s-code/blob/main/Js/Array/findLastIndex.md) 查找提供的函数为其返回真值的最后一个元素的索引。
 
 ## Object 
 
