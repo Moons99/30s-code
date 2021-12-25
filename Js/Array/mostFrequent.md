@@ -4,8 +4,8 @@
 
 ## 思路
 
-- 用于Array.prototype.reduce()将唯一值映射到对象的键，每次遇到相同的值时添加到现有键。
-- 使用Object.entries()这一结果与组合Array.prototype.reduce()获得阵列中的最频繁的值。
+- 用于`Array.prototype.reduce()`将唯一值映射到对象的键，每次遇到相同的值时添加到现有键。
+- 使用`Object.entries()`这一结果与组合`Array.prototype.reduce()`获得阵列中的最频繁的值。
 
 ## code
 ```js
