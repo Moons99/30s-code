@@ -18,7 +18,7 @@
 12. [partition](https://github.com/Moons99/30s-code/blob/main/Js/Array/partition.md) 根据所提供的函数对每个元素的真实性，将元素分组为两个数组。
 13. [findLastIndex](https://github.com/Moons99/30s-code/blob/main/Js/Array/findLastIndex.md) 查找提供的函数为其返回真值的最后一个元素的索引。
 14. [frequencies](https://github.com/Moons99/30s-code/blob/main/Js/Array/frequencies.md) 以数组的唯一值作为键，以其频率作为值创建一个对象。
-
+15. [remove](https://github.com/Moons99/30s-code/blob/main/Js/Array/remove.md) 通过删除给定函数返回`false`的元素来改变数组。
 
 ## Object 
 
