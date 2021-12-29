@@ -21,6 +21,7 @@
 15. [remove](Js/Array/remove.md) 通过删除给定函数返回`false`的元素来改变数组。
 16. [symmetricDifferenceBy](Js/Array/symmetricDifferenceBy.md) 将提供的函数应用于两个数组的每个元素后，返回两个数组之间的对称差值。
 17. [orderBy](Js/Array/orderBy.md) 对对象数组进行排序，按属性和顺序排序。
+18. [pull](Js/Array/pull.md) 改变原始数组以过滤指定的值。
 
 ## Object 
 
