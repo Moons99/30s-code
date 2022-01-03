@@ -23,6 +23,7 @@
 17. [orderBy](Js/Array/orderBy.md) 对对象数组进行排序，按属性和顺序排序。
 18. [pull](Js/Array/pull.md) 改变原始数组以过滤指定的值。
 19. [pullAtIndex](Js/Array/pullAtIndex.md) 改变原始数组以过滤掉指定索引处的值。返回移除的元素。
+20. [takeRightUntil](Js/Array/takeRightUntil.md) 从数组末尾移除元素，直到传递的函数返回true。返回移除的元素。
 
 ## Object 
 
