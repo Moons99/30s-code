@@ -25,6 +25,7 @@
 19. [pullAtIndex](Js/Array/pullAtIndex.md) 改变原始数组以过滤掉指定索引处的值。返回移除的元素。
 20. [takeRightUntil](Js/Array/takeRightUntil.md) 从数组末尾移除元素，直到传递的函数返回`true`。返回移除的元素。
 21. [takeRightWhile](Js/Array/takeRightWhile.md) 从数组末尾移除元素，直到传递的函数返回`false`。返回移除的元素。
+22. [averageBy](Js/Array/averageBy.md) 在使用提供的函数将每个元素映射到一个值之后，计算数组的平均值。
 
 ## Object 
 
