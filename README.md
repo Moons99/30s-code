@@ -27,6 +27,7 @@
 21. [takeRightWhile](Js/Array/takeRightWhile.md) 从数组末尾移除元素，直到传递的函数返回`false`。返回移除的元素。
 22. [averageBy](Js/Array/averageBy.md) 在使用提供的函数将每个元素映射到一个值之后，计算数组的平均值。
 23. [bifurcate](Js/Array/bifurcate.md) 根据给定`filter`数组的结果将值分成两组。
+24. [merge](Js/Array/merge.md) 用两个或多个对象的组合创建一个新对象。
 
 ## Object 
 
