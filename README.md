@@ -29,6 +29,7 @@
 23. [bifurcate](Js/Array/bifurcate.md) 根据给定`filter`数组的结果将值分成两组。
 24. [merge](Js/Array/merge.md) 用两个或多个对象的组合创建一个新对象。
 25. [orderWith](Js/Array/merge.md) 根据所提供的顺序数组对由属性排序的对象数组排序。
+26. [partitionBy](Js/Array/merge.md) 适用`fn`于中的每个值`arr`，每次提供的函数返回新值时将其拆分。)
 
 ## Object 
 
