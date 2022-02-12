@@ -31,6 +31,8 @@
 25. [orderWith](Js/Array/merge.md) 根据所提供的顺序数组对由属性排序的对象数组排序。
 26. [partitionBy](Js/Array/merge.md) 适用`fn`于中的每个值`arr`，每次提供的函数返回新值时将其拆分。
 27. [sumBy](Js/Array/sumBy.md) 在使用提供的函数将每个元素映射到一个值之后，计算数组的总和。
+28. [toPairs](Js/Array/toPairs.md) 从对象或其他可迭代对象创建键值对数组的数组。
+29. [accumulate](Js/Array/accumulate.md) 创建部分和数组。
 
 ## Object 
 
