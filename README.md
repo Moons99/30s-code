@@ -33,6 +33,8 @@
 27. [sumBy](Js/Array/sumBy.md) 在使用提供的函数将每个元素映射到一个值之后，计算数组的总和。
 28. [toPairs](Js/Array/toPairs.md) 从对象或其他可迭代对象创建键值对数组的数组。
 29. [accumulate](Js/Array/accumulate.md) 创建部分和数组。
+30. [objectToEntries](Js/Array/objectToEntries.md) 从一个对象创建一个键值对数组的数组。
+31. [zipObject](Js/Array/zipObject.md) 将属性与值关联，给定有效的属性标识符数组和值数组。
 
 ## Object 
 
