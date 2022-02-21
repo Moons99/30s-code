@@ -35,6 +35,7 @@
 29. [accumulate](Js/Array/accumulate.md) 创建部分和数组。
 30. [objectToEntries](Js/Array/objectToEntries.md) 从一个对象创建一个键值对数组的数组。
 31. [zipObject](Js/Array/zipObject.md) 将属性与值关联，给定有效的属性标识符数组和值数组。
+32. [differenceBy](Js/Array/differenceBy.md) 在将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的差异。
 
 ## Object 
 
