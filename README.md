@@ -6,3 +6,4 @@
 
 ## Object
 - [deepMerge](Js/Object/deepMerge.md): 深度合并两个对象，使用一个函数来处理两者中存在的键。
+- 测试一下
